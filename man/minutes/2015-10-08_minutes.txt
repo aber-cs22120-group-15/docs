@@ -1,0 +1,62 @@
+In Attendance:
+sis22
+dkm2
+sah54
+daw48
+ler14
+jar52
+jap30
+frs13
+
+Absent:
+cdp
+
+Actions:
+frs13 takes minutes
+
+dkm2 volunteers to creat group GitHub
+(Please send dkm2 you GiHub usernames)
+
+FaceBook group mentioned. Please may all members join.
+
+A blog must be created by all members, please email URL to Chris.
+Blog is to summarise each work session so group can be sure that all members contribute equally.
+Please give time committed in whole number hours.
+
+All read Project Requirements Specification, and SE.QA.01 for next week.
+
+Next week group roles will be designated.
+Roles include Project Leader and Deputy, Quality Assurance and Deputy, and potentially Soft ware Architect.
+Any hopeful team leaders should prepare 1 minute pitch to apply.
+
+Discussed presentations to be given next week.
+Please provide a short talk on the topic associated with your username.
+sah54: Design Specification Standards
+jar52:Project Plan Specification.
+sis22:Test Procedure Standards.
+daw48:Review Standards
+ler14:Operating Procedures and Configuration Management Standards.
+jap30:Java Coding Standards
+dkm2:Web Development Standards.
+
+
+Discussed punitive measures.
+Summary:
+Yellow Card: 20% mark reduction.
+Task given to remove Yellow card.
+Orange Card: 40% mark reduction.
+A meeting will be arranged to discuss the issue.
+Red Card: 100% mark reduction.
+All levels can be revoked in response to extra effort relevant to level of villainy.
+
+Summarised team members strengths and weaknesses.
+Chris email typed list to group.
+
+Anonymously summarised team members emotional state.
+General feeling of group is good. A few low answers.
+
+
+Thank you for taking the time to read the minutes of our first meeting. Enjoy your week and I'll see you next time.
+Freddie Simmons
+
+P.S. If the whole group replies with their personal timetables, I can create a "negative space" timetable for the group, where I will have a number of suggested periods when we can meet during the day outside of tutorial
