@@ -14,7 +14,7 @@
  - http://users.aber.ac.uk/jar52/wordpress/
 
 - Darren White
- - http://users.aber.ac.uk/daw48/wordpress/
+ - http://users.aber.ac.uk/daw48/blog.html
 
 - Daniel Monaghan
  - http://blog.daniel-monaghan.co.uk/
